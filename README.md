@@ -5,7 +5,7 @@
 
 Dear colleagues! To Do List project with MongoDB Database (localhost). Let's use it!
 
-![to do list](https://user-images.githubusercontent.com/102762000/175974889-773c157f-ab50-4523-ade5-46988780f859.png)
+![to do list API](https://user-images.githubusercontent.com/102762000/177438948-f00381d8-6953-47c4-bc4f-5a80415f9fe9.png)
 
 ## Installation
 
