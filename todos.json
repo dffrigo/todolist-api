@@ -1,0 +1,14 @@
+[
+	{
+		"todo": "Practice JavaScript coding",
+		"status": "Ongoing"
+	},
+	{
+		"todo": "Practice HTML / CSS coding",
+		"status": "Delayed"
+	},
+	{
+		"todo": "Study extra class material",
+		"status": "Done"
+	}
+]

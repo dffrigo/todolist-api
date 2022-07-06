@@ -1,0 +1,29 @@
+{
+  "name": "todolist-api",
+  "version": "1.0.0",
+  "description": "> To Do List API - Backend | Task control | Time management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dffrigo/todolist-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dffrigo/todolist-api/issues"
+  },
+  "homepage": "https://github.com/dffrigo/todolist-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
